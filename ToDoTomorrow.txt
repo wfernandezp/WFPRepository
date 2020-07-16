@@ -1,5 +1,6 @@
 ToDo Tomorrow
 -------------
 - Meeting all day
-- Calling all
+- Calling to all
 - Sending email
+- Go to home
